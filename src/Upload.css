@@ -1,0 +1,10 @@
+input[type=”file”] {
+    display: inline-block;
+   }
+   .Table {
+    max-width: 90%;
+    margin: 10px;
+   }
+   .Table th {
+    text-align: center;
+   }
