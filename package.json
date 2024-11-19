@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "crypto-js": "^4.0.0",
     "file-saver": "^2.0.2",
-    "firebase": "^7.9.1",
+    "firebase": "^10.9.0",
     "fs-extra": "^8.1.0",
     "ipfs-api": "^26.1.2",
     "jquery": "^3.4.1",
